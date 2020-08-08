@@ -1,0 +1,9 @@
+/* sortable ghost class */
+.sort-ghost-class {
+  background: transparent;
+  border: 2px dashed #6292D3;
+}
+
+.sort-ghost-class > div {
+  opacity: 0;
+}
